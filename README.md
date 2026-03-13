@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+    <h1>Odin Recpies</h1>
+        <ul>
+            <li><a href "recipes/recipes-oatmeal-raisin-cookies.html"> Oatmeal Raisin Cookies</a></li>
+            <li><a href "recipes/recipes-gingersnap-cookies.html"> Gingersnap Cookies</a></li>
+            <li></li><a href "recipes/recipes-custard-ice-cream.html"> Custard Ice Cream</a></li>
+        </ul>
+    </body>
+</html>
